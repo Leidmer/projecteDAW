@@ -1,4 +1,4 @@
-![Image](https://i.imgur.com/sOd5qYy.png)
+![Image](https://i.imgur.com/sOd5qYy.png){:height="30%" width="30%"}
 
 ## CendraHouse
 
