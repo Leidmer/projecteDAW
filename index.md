@@ -1,3 +1,5 @@
+![Image](https://i.imgur.com/sOd5qYy.png)
+
 ## CendraHouse
 
 És una web immobiliària on tots els usuaris podran pujar imatges de les seves
@@ -17,30 +19,13 @@ anuncis repetits o que no compleixin les normes de la web.
 • Usuari Administrador: Pot fer tot el que fa un moderador i a més pot eliminar usuaris, crear
 o eliminar usuaris moderadors i editar certes parts de la web.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Front-end
 
-- Bulleted
-- List
+Utilitzaré HTML, Javascript, CSS, Angular, Bootstrap i diferents llibreries i icones d’internet com
+poden ser les icones de FontAwesome.
 
-1. Numbered
-2. List
+### Back-end
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sethei/Static_Website_Generator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Per el back-end faré servir Laravel ja que és el que més hem servir a classe i per tant el que millor
+conec. Per a base de dades faré servir SQL.
